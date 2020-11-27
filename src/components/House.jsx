@@ -1,5 +1,5 @@
 const House = (props) => {
-  const { id, boardState, houseState, selectedId, validMoves, pieceSelected, target } = props;
+  const { id, houseState, selectedId, validMoves, pieceSelected, target } = props;
 
   const isSelected = houseState && selectedId ? selectedId === houseState[id] : false;
   const isTarget = target === id;
