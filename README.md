@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Senet
+
+Senet is an ancient egyptian game played by pharaohs and may be up to 5000 years old making it the oldest known board game in the world.
+
+## React stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
